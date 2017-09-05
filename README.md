@@ -10,9 +10,10 @@ What was the learning objectives
 What are known problems, if any, with this assignment?
 
 I had some problems using git initially, mainly when I reached the commit and had to enter my username and password because it was not letting me commit.
-Heroku was new to me so I also had sme trouble getting my html file to publish
+Heroku was new to me so I also had sme trouble getting my html file to publish and could not get it to work in the end.
 My repository was initialized with a readme on github which was conflicts which caused me some trouble because I did not know why my push was fatal.
 
 How would you improve it if you had more time?
 
 I would have most like done commits over time instead of one large commit and add better commit/add messages in order to make my repository make sense.
+I would have also liked to publish my app on heroku.
